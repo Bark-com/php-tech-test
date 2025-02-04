@@ -16,8 +16,8 @@ This third party provides the ability to do the following:
 
 ## Task
 Upgrade the project by creating a client to the third party e-commerce provider. The client should have:
-* Ability to **create** a new store user associated with the legacy project’s user
-* Ability to **add** existing products to the new store user’s cart 
+* Ability to **create** a new store user
+* Ability to **add** an existing product (from the third party e-commerce provider) 
 * Ability to **list** products in the store user’s cart
 
 Notes:
